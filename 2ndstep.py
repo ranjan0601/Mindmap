@@ -5,7 +5,7 @@
 import pdfplumber
 
 # Path to your PDF file
-pdf_file = r"D:\Desktop Backup\Python_Practice\PDFSpliting\chap4.pdf"
+pdf_file = r"D:\Desktop Backup\Python_Practice\PDFSpliting\chap5.pdf"
 
 # Open the PDF
 with pdfplumber.open(pdf_file) as pdf:

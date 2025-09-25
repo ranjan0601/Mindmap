@@ -12,7 +12,7 @@ model = genai.GenerativeModel("gemini-2.5-flash")
 # print(response.text)
 
 
-filename = r"D:\Desktop Backup\Python_Practice\PDFSpliting\extracted_text_part4.txt"
+filename = r"D:\Desktop Backup\Python_Practice\PDFSpliting\extracted_text_part2.txt"
 try:
     text = ""
     with open( filename, 'r', encoding='utf-8') as file:
